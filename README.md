@@ -6,6 +6,8 @@ I will be going on a break for a week or two to prepare for college. That means 
 
 THAT MEANS, if you wanna try any of these plugins, goto the plugin folder, then the target folder. After that, copy all jar files into the Stream-Pi Plugins folder. and DISCLAIMER: THESE PLUGINS ARE NOT TESTED OR ANYTHING, THEREFORE I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS
 
+DISCLAIMER: THESE PLUGINS ARE EXPERIMENTAL AND MAY OR MAY NOT WORK. I AM NOT RESPONSIBLE FOR ANY ERRORS THAT MAY OCCUR WHEN USING THESE PLUGINS.
+
 Thank you everyone for all the nice messages over my time here and can't wait for the future.
 
 **Happy Holidays!**
