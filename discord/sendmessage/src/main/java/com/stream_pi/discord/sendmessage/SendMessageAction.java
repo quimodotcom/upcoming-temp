@@ -1,4 +1,4 @@
-package com.stream_pi.discord.sendmessage;
+package com.quimodotcom.discord.sendmessage;
 
 import com.stream_pi.action_api.externalplugin.NormalAction;
 import com.stream_pi.action_api.actionproperty.property.*;

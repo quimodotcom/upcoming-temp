@@ -1,6 +1,6 @@
-com/stream_pi/voicecommandaction/OBS.class
-com/stream_pi/voicecommandaction/VoiceAssistant.class
-com/stream_pi/voicecommandaction/Steam.class
-com/stream_pi/voicecommandaction/Voicemeeter.class
+com/quimodotcom/voicecommandaction/Steam.class
+com/quimodotcom/voicecommandaction/OBS.class
+com/quimodotcom/voicecommandaction/VoiceCommandAction.class
+com/quimodotcom/voicecommandaction/VoiceAssistant.class
 module-info.class
-com/stream_pi/voicecommandaction/VoiceCommandAction.class
+com/quimodotcom/voicecommandaction/Voicemeeter.class

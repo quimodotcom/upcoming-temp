@@ -1,4 +1,0 @@
---patch-module
-com.stream_pi.cryptoaction=_
---add-reads
-com.stream_pi.cryptoaction=ALL-UNNAMED

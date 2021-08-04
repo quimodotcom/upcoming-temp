@@ -1,4 +1,4 @@
 --patch-module
-com.stream_pi.voicecommandaction=_
+com.quimodotcom.voicecommandaction=_
 --add-reads
-com.stream_pi.voicecommandaction=ALL-UNNAMED
+com.quimodotcom.voicecommandaction=ALL-UNNAMED
