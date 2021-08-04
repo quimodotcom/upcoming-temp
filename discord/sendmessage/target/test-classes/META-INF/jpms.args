@@ -1,0 +1,4 @@
+--patch-module
+com.stream_pi.discord.sendmessage=_
+--add-reads
+com.stream_pi.discord.sendmessage=ALL-UNNAMED

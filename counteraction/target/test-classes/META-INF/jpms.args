@@ -1,0 +1,4 @@
+--patch-module
+com.stream_pi.counteraction=_
+--add-reads
+com.stream_pi.counteraction=ALL-UNNAMED

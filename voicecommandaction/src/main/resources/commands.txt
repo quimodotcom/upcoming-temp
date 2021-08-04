@@ -1,0 +1,8 @@
+open browser
+open obs
+close obs
+open voicemeter
+close voicemeter
+open youtube
+open steam
+close steam

@@ -1,0 +1,4 @@
+--patch-module
+com.stream_pi.screenshot=_
+--add-reads
+com.stream_pi.screenshot=ALL-UNNAMED

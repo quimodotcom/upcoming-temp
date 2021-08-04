@@ -1,0 +1,4 @@
+--patch-module
+com.stream_pi.voicemeeter=_
+--add-reads
+com.stream_pi.voicemeeter=ALL-UNNAMED

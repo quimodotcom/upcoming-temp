@@ -1,0 +1,4 @@
+--patch-module
+com.stream_pi.screenrecordaction=_
+--add-reads
+com.stream_pi.screenrecordaction=ALL-UNNAMED
