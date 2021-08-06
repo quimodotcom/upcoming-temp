@@ -1,0 +1,4 @@
+--patch-module
+com.quimodotcom.socialblade=_
+--add-reads
+com.quimodotcom.socialblade=ALL-UNNAMED
